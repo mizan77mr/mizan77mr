@@ -27,7 +27,7 @@
 </div>
 
 ### Languages and Tools:Add commentMore actions
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,&perline=5)](https://skillicons.dev)
 
 ![Mizanur Rahman GitHub stats](https://github-readme-stats.vercel.app/api?username=mizan77mr&show_icons=true&theme=dark)
 
