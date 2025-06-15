@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: mizanshaheb644@gmail.com
-- 😄 My website: https://portfolioofmizan.blogspot.com
+- 😄 My website: https://preview--my-flutter-showcase.lovable.app/#
 - ⚡ Fun fact: I'm comming to teen
   
 ### Connect with me:
